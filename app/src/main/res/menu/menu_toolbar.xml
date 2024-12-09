@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        
+        android:id="@+id/styleBar"
+        android:title="@string/s_menu_Style"/>
+    <item
+        android:id="@+id/allBookBar"
+        android:title="@string/s_menu_AllBook"/>
+    <item
+        android:id="@+id/aboutBar"
+        android:title="@string/s_menu_About"/>
+</menu>

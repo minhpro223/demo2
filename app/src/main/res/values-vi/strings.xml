@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quan ly Sach</string>
+    <string name="s_menu_Style">The loai</string>
+    <string name="s_menu_AllBook">Sach</string>
+    <string name="s_menu_About">Thong itn</string>
+    <string name="s_Login_user">Ten tai khoan</string>
+    <string name="s_Login_title">Dang nhap</string>
+    <string name="s_Login_pass">Mat khau</string>
+    <string name="s_Login_button">Dang nhap</string>
+    <string name="s_style_id">Ma: </string>
+    <string name="s_style_name">Ten: </string>
+    <string name="s_btnAdd">Thêm</string>
+    <string name="s_btnDel">Xóa</string>
+    <string name="s_btnUpdate">Sua</string>
+    <string name="s_about_name">Ten: Phan Tuan Dung</string>
+    <string name="s_about_id">MSSV: DH52103137</string>
+    <string name="s_about_class">Lop: D21_TH01</string>
+    <string name="s_about_phone">Sdt: 0357716720</string>
+    <string name="s_about_Mail">Mail:dungbt1123@gmail.com</string>
+    <string name="s_detail_page">Trang: </string>
+    <string name="s_detail_price">Gia: </string>
+    <string name="s_btnChoose">Chon: </string>
+    <string name="s_btnTake">Lum: </string>
+    <string name="s_Call">Gọi</string>
+</resources>

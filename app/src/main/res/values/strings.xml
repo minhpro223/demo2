@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Admin Book</string>
+    <string name="s_menu_Style">Style:</string>
+    <string name="s_menu_AllBook">AllBook</string>
+    <string name="s_menu_About">About</string>
+    <string name="s_Login_user">UserName</string>
+    <string name="s_Login_title">Login</string>
+    <string name="s_Login_pass">PassWord</string>
+    <string name="s_Login_button">Login</string>
+    <string name="s_style_id">Id: </string>
+    <string name="s_style_name">Name: </string>
+    <string name="s_btnAdd">Add</string>
+    <string name="s_btnDel">Delete</string>
+    <string name="s_btnUpdate">Update</string>
+    <string name="s_about_name">Name: Phan Tuan Dung</string>
+    <string name="s_about_id">Id: DH52103137</string>
+    <string name="s_about_class">Class: D21_TH01</string>
+    <string name="s_about_phone">Phone: 0357716720</string>
+    <string name="s_btnChoose">Choose: </string>
+    <string name="s_btnTake">Take: </string>
+    <string name="s_detail_page">Page: </string>
+    <string name="s_detail_price">Price: </string>
+    <string name="s_about_Mail">Mail:dungbt1123@gmail.com</string>
+    <string name="s_Call">Call</string>
+
+
+
+</resources>
